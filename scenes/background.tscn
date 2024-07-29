@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://s3dwwgt2ragw"]
+
+[ext_resource type="Texture2D" uid="uid://keyxk82hu4sh" path="res://assets/1 Sprites/Book Desk/2.png" id="1_62g1x"]
+
+[node name="Background" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_62g1x")
